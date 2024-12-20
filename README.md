@@ -1,4 +1,7 @@
-Hi, my name is Mayra
+Hola, Mi nombre es Mayra
+Tratando de sobrevivir
+
+
 
 <!---
 mayra-alvarez/mayra-alvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
